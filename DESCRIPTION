@@ -1,0 +1,14 @@
+Package: DEPOfunctions
+Title: DEPO Report Production Functions (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Lyn", "Howard", , "Lynda.Howard@nhs.net", role = c("aut", "cre"))
+Description: This package contains functions to aid in taking data from untidy .xlsx files (multiple tables on 1 sheet), and in the production of charts.
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    dplyr,
+    readxl,
+    tidyr
