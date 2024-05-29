@@ -1,5 +1,5 @@
 Package: DEPOfunctions
-Title: DEPO Report Production Functions (One Line, Title Case)
+Title: DEPO Report Production Functions
 Version: 0.0.0.9000
 Authors@R: 
     person("Lyn", "Howard", , "Lynda.Howard@nhs.net", role = c("aut", "cre"))
@@ -12,3 +12,5 @@ Imports:
     dplyr,
     readxl,
     tidyr
+URL: https://github.com/LynHUK/DEPOfunctions
+BugReports: https://github.com/LynHUK/DEPOfunctions/issues
