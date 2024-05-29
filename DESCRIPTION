@@ -12,3 +12,5 @@ Imports:
     dplyr,
     readxl,
     tidyr
+URL: https://github.com/LynHUK/DEPOfunctions
+BugReports: https://github.com/LynHUK/DEPOfunctions/issues
