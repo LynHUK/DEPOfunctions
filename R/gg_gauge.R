@@ -9,6 +9,8 @@
 #'
 #' @examples gg_gauge(52)
 #' @examples gg_gauge(65, "How are we performing?")
+#' @examples gg_guage(pos = 75, title = "RAG rating")
+
 
 gg_gauge <- function(pos,title = "", breaks=c(0,30,70,100)) {
   require(ggplot2)
