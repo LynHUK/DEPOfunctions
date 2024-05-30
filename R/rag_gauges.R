@@ -2,7 +2,7 @@
 #'
 #' @param df a dataframe with the rag rating as numeric values
 #'
-#' @return a ggplot object of 4 gauges
+#' @return a ggplot object of 4 rag gauges
 #' @export
 #'
 #' @examples rag_gauges(rag_df)
