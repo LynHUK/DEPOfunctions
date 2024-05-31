@@ -3,7 +3,7 @@
 \docType{data}
 \name{rag_df}
 \alias{rag_df}
-\title{Data to demostrate the 4 dial rag_gauge() function}
+\title{Data to demonstrate the 4 dial rag_gauge() function}
 \format{
 A dataframe with 1 row and 4 columns:
 \describe{
@@ -22,6 +22,6 @@ data(rag_df)
 rag_df
 }
 \description{
-Data to demostrate the 4 dial rag_gauge() function
+Data to demonstrate the 4 dial rag_gauge() function
 }
 \keyword{datasets}

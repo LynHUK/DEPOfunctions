@@ -22,4 +22,5 @@ Build a gauge with red, amber & green background
 \examples{
 gg_gauge(52)
 gg_gauge(65, "How are we performing?")
+gg_guage(pos = 75, title = "RAG rating")
 }

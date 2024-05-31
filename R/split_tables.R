@@ -6,7 +6,7 @@
 #' @return A single dataframe combining all the tables as one, with the columns "folder_name", "table_name", "index_no", "col_names", "value".
 #' @export
 #'
-#' @examples split_tables("inst/sample_download_file.xlsx")
+#' @examples split_tables(data_example("sample_download_file.xlsx"))
 
 split_tables <- function(filename, folder_name_position = "A5", skip_rows = 8, sheet = "Sheet") {
   folder_name <- readxl::read_excel(filename, sheet = sheet,

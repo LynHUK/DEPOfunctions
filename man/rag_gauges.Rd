@@ -10,7 +10,7 @@ rag_gauges(df)
 \item{df}{a dataframe with the rag rating as numeric values}
 }
 \value{
-a ggplot object of 4 gauges
+a ggplot object of 4 rag gauges
 }
 \description{
 DEPO specific function for the 4 dial RAG output

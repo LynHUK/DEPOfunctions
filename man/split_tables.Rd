@@ -21,5 +21,5 @@ A single dataframe combining all the tables as one, with the columns "folder_nam
 Split a dataframe read from an untidy sheet in Excel
 }
 \examples{
-split_tables("inst/sample_download_file.xlsx")
+split_tables(data_example("sample_download_file.xlsx"))
 }
