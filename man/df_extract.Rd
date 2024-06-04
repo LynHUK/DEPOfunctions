@@ -18,5 +18,5 @@ dataframe of the selected contents
 Title
 }
 \examples{
-split_tables("inst/sample_download_file.xlsx") |> df_extract("Workforce Overview")
+split_tables(data_example("sample_download_file.xlsx"))|> df_extract("Workforce Overview")
 }

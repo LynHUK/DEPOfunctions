@@ -18,5 +18,5 @@ a dataframe with the correct column names
 Title
 }
 \examples{
-rename_row(df = df, row_number = 2)
+rename_row(df = rename_example_df, row_number = 2)
 }
