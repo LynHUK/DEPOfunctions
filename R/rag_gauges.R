@@ -5,7 +5,9 @@
 #' @return a ggplot object of 4 rag gauges
 #' @export
 #'
-#' @examples rag_gauges(rag_df)
+#' @examples rag_gauges(rag_df) #rag_df is an example dataframe included in this package
+#' @examples rag_gauges(df = rag_df)
+
 
 rag_gauges <- function(df) {
   #df <- rag_df |> filter(folder_name == area)

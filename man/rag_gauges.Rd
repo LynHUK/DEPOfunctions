@@ -16,5 +16,6 @@ a ggplot object of 4 rag gauges
 DEPO specific function for the 4 dial RAG output
 }
 \examples{
-rag_gauges(rag_df)
+rag_gauges(rag_df) #rag_df is an example dataframe included in this package
+rag_gauges(df = rag_df)
 }
