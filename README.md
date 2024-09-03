@@ -2,5 +2,7 @@ This project combines functions used in the production of DEPO reports and inclu
 
 
 To install this package you can use 
+
 install.packages("devtools")
+
 devtools::install_github("LynHUK/DEPOfunctions")
